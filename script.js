@@ -92,7 +92,3 @@ function getAnswer() {
 
 // Initialize with the first problem and start the timer
 document.querySelector('.problem').innerText = currentProblem.problem;
-
-// Initialize with the first problem and start the timer
-document.querySelector('.problem').innerText = currentProblem.problem;
-// Function 
