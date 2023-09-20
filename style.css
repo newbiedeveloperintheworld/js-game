@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 199, 199);
+}
+
+.main {
+    margin-top: 20vh;
+    text-align: center;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 10px;
+    padding: 50px;
+    background-color: rgb(218, 218, 218);
+}
+
+#title {
+    font-size: 50px;
+}
+
+.problem {
+    font-weight: bold;
+    font-size: 35px;
+    margin: 10px;
+}
+
+#answer {
+    font-size: 15px;
+    padding: 8px;
+    width: 100px;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 5px;
+}
+
+#submit {
+    font-size: 15px;
+    padding: 8px;
+    cursor: pointer;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 5px;
+
+}
+
+#result {
+    background-color: rgb(250, 250, 250);
+    font-size: 20px;
+    width: 170px;
+    padding: 5px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
